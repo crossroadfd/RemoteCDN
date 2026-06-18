@@ -1,0 +1,278 @@
+Brilliant Amulet of Earth
+Brilliant Amulet of Fire
+Brilliant Amulet of Moon
+Brilliant Amulet of Sea
+Brilliant Amulet of Sun
+Coruscating Amulet of Earth
+Coruscating Amulet of Fire
+Coruscating Amulet of Moon
+Coruscating Amulet of Sea
+Coruscating Amulet of Sun
+Divine Arrows
+Divine Axe
+Divine Blade
+Divine Bludgeon
+Divine Bolts
+Divine Bow
+Divine Cap
+Divine Circlet
+Divine Crossbow
+Divine Crystal
+Divine Dagger
+Divine Gauntlets
+Divine Grimoire
+Divine Hat
+Divine Helmet
+Divine Herb
+Divine Hide Armor
+Divine Ingredient
+Divine Instrument
+Divine Javelin
+Divine Knuckles
+Divine Leather Armor
+Divine Net
+Divine Orb
+Divine Phylactery
+Divine Pistol
+Divine Plate Mail
+Divine Quiver
+Divine Ring of Earth
+Divine Ring of Fire
+Divine Ring of Moon
+Divine Ring of Sea
+Divine Ring of Sun
+Divine Robe
+Divine Scepter
+Divine Shield
+Divine Staff
+Divine Sword
+Divine Tabard
+Divine Tome
+Divine Tower Shield
+Divine Vial
+Divine Wand
+Epic Arrows
+Epic Axe
+Epic Blade
+Epic Bludgeon
+Epic Bolts
+Epic Bow
+Epic Cap
+Epic Circlet
+Epic Crossbow
+Epic Crystal
+Epic Dagger
+Epic Gauntlets
+Epic Grimoire
+Epic Hat
+Epic Helmet
+Epic Herb
+Epic Hide Armor
+Epic Ingredient
+Epic Instrument
+Epic Javelin
+Epic Knuckles
+Epic Leather Armor
+Epic Net
+Epic Orb
+Epic Phylactery
+Epic Pistol
+Epic Plate Mail
+Epic Quiver
+Epic Ring of Earth
+Epic Ring of Fire
+Epic Ring of Moon
+Epic Ring of Sea
+Epic Ring of Sun
+Epic Robe
+Epic Scepter
+Epic Shield
+Epic Staff
+Epic Sword
+Epic Tabard
+Epic Tome
+Epic Tower Shield
+Epic Vial
+Epic Wand
+Exalted Arrows
+Exalted Axe
+Exalted Blade
+Exalted Bludgeon
+Exalted Bolts
+Exalted Bow
+Exalted Cap
+Exalted Circlet
+Exalted Crossbow
+Exalted Crystal
+Exalted Dagger
+Exalted Gauntlets
+Exalted Grimoire
+Exalted Hat
+Exalted Helmet
+Exalted Herb
+Exalted Hide Armor
+Exalted Ingredient
+Exalted Instrument
+Exalted Javelin
+Exalted Knuckles
+Exalted Leather Armor
+Exalted Net
+Exalted Orb
+Exalted Phylactery
+Exalted Pistol
+Exalted Plate Mail
+Exalted Quiver
+Exalted Ring of Earth
+Exalted Ring of Fire
+Exalted Ring of Moon
+Exalted Ring of Sea
+Exalted Ring of Sun
+Exalted Robe
+Exalted Scepter
+Exalted Shield
+Exalted Staff
+Exalted Sword
+Exalted Tabard
+Exalted Tome
+Exalted Tower Shield
+Exalted Vial
+Exalted Wand
+Incandescent Amulet of Earth
+Incandescent Amulet of Fire
+Incandescent Amulet of Moon
+Incandescent Amulet of Sea
+Incandescent Amulet of Sun
+Legendary Arrows
+Legendary Axe
+Legendary Blade
+Legendary Bludgeon
+Legendary Bolts
+Legendary Bow
+Legendary Cap
+Legendary Circlet
+Legendary Crossbow
+Legendary Crystal
+Legendary Dagger
+Legendary Gauntlets
+Legendary Grimoire
+Legendary Hat
+Legendary Helmet
+Legendary Herb
+Legendary Hide Armor
+Legendary Ingredient
+Legendary Instrument
+Legendary Javelin
+Legendary Knuckles
+Legendary Leather Armor
+Legendary Net
+Legendary Orb
+Legendary Phylactery
+Legendary Pistol
+Legendary Plate Mail
+Legendary Quiver
+Legendary Ring of Earth
+Legendary Ring of Fire
+Legendary Ring of Moon
+Legendary Ring of Sea
+Legendary Ring of Sun
+Legendary Robe
+Legendary Scepter
+Legendary Shield
+Legendary Staff
+Legendary Sword
+Legendary Tabard
+Legendary Tome
+Legendary Tower Shield
+Legendary Vial
+Legendary Wand
+Magic Arrows
+Magic Axe
+Magic Blade
+Magic Bludgeon
+Magic Bolts
+Magic Bow
+Magic Cap
+Magic Circlet
+Magic Crossbow
+Magic Crystal
+Magic Dagger
+Magic Gauntlets
+Magic Grimoire
+Magic Hat
+Magic Helmet
+Magic Herb
+Magic Hide Armor
+Magic Ingredient
+Magic Instrument
+Magic Javelin
+Magic Knuckles
+Magic Leather Armor
+Magic Net
+Magic Orb
+Magic Phylactery
+Magic Pistol
+Magic Plate Mail
+Magic Quiver
+Magic Ring of Earth
+Magic Ring of Fire
+Magic Ring of Moon
+Magic Ring of Sea
+Magic Ring of Sun
+Magic Robe
+Magic Scepter
+Magic Shield
+Magic Staff
+Magic Sword
+Magic Tabard
+Magic Tome
+Magic Tower Shield
+Magic Vial
+Magic Wand
+Mythic Arrows
+Mythic Axe
+Mythic Blade
+Mythic Bludgeon
+Mythic Bolts
+Mythic Bow
+Mythic Cap
+Mythic Circlet
+Mythic Crossbow
+Mythic Crystal
+Mythic Dagger
+Mythic Gauntlets
+Mythic Grimoire
+Mythic Hat
+Mythic Helmet
+Mythic Herb
+Mythic Hide Armor
+Mythic Ingredient
+Mythic Instrument
+Mythic Javelin
+Mythic Knuckles
+Mythic Leather Armor
+Mythic Net
+Mythic Orb
+Mythic Phylactery
+Mythic Pistol
+Mythic Plate Mail
+Mythic Quiver
+Mythic Ring of Earth
+Mythic Ring of Fire
+Mythic Ring of Moon
+Mythic Ring of Sea
+Mythic Ring of Sun
+Mythic Robe
+Mythic Scepter
+Mythic Shield
+Mythic Staff
+Mythic Sword
+Mythic Tabard
+Mythic Tome
+Mythic Tower Shield
+Mythic Vial
+Mythic Wand
+Radiant Amulet of Earth
+Radiant Amulet of Fire
+Radiant Amulet of Moon
+Radiant Amulet of Sea
+Radiant Amulet of Sun

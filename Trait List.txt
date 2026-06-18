@@ -1,0 +1,213 @@
+Shroud
+Acid Resistance
+Aquatic Ambush
+Arcane Shield
+Arcane Vibrations
+Armor of Blood
+Armor of Earth
+Armor of Fire
+Armor of Moon
+Armor of Sea
+Armor of Sun
+Aura of Cold
+Aura of Fire
+Aura of Immobilize
+Aura of Poison
+Aura of Terror
+Backstab
+Bad Medicine
+Ballistic
+Bardic Song
+Barrier
+Berserk
+Blade On A Chain
+Bleed Resistance
+Blitz
+Bloodlust
+Brutal Attack
+Brutal Backstab
+Cardinal Aim
+Cardinal Heal
+Cardinal Parry
+Chord of Blitz
+Chord of Cardinal Aim
+Chord of Critical Attack
+Chord of Diagonal Aim
+Chord of Exploit Weakness
+Chord of Point Blank
+Chromatic Shield
+Chromatic Song
+Clean Kill
+Cold Resistance
+Critical Attack
+Critical Attack: Freeze
+Critical Attack: Ignite
+Critical Attack: Rupture
+Critical Distraction
+Critical Heal
+Critical Parry
+Crushing Blow
+Curse Resistance
+Cutlass & Flintlock
+Dark Bargain
+Dauntless
+Dazzling
+Deadly Syphon
+Death Blow
+Death Ward
+Demoralizing Strike
+Diagonal Aim
+Diagonal Heal
+Diagonal Parry
+Disorienting Strike
+Dodge
+Drainwhirl
+Eagle Eye
+Entangle
+Exploit Weakness
+Extra Time
+Favored Odds
+Finishing Blow
+Fire Resistance
+Fire Walker
+Firewhirl
+Flank
+Fleet-Footed
+Focus
+Focused Freeze
+Foresight
+Fortify
+Frostwhirl
+Grappling Hook
+Hamstring
+Healing Aura
+Healing Focus
+Healing Ray
+Healing Touch
+Healing Wave
+High Ground
+Ignition Point
+Immobilizing Strike
+Immovable
+Immune to Dazzled
+Immune to Demoralization
+Immune to Disorientation
+Immune to Silence
+Immune to Stun
+Immune to Taunt
+Immune to Withering
+Impunity
+Initiative: Cure Poison
+Initiative: Heroic Blow
+Initiative: Long Shot
+Initiative: Quick Attack
+Inner Peace
+Ironskin
+Lick & Drag
+Life Drain
+Life Drain Immunity
+Life Steal
+Life-Draining Backstab
+Lingering Heal
+Magic Parry
+Majesty
+Meditate
+Melee Parry
+Mighty Blow
+Natural Harmony
+Net Grab
+Oath of Vengeance
+Ooze Exterminator
+Pacifist
+Pacify Beasts
+Pact Against Beasts
+Pact Against Constructs
+Pact Against Elementals
+Pact Against Insects
+Pact Against Sylvans
+Pact Against Undead
+Pact of Earth
+Pact of Fire
+Pact of Heroism
+Pact of Moon
+Pact of Sea
+Pact of Sun
+Pistoleer
+Point Blank
+Poison Resistance
+Power Chord
+Predator
+Prepare
+Prepared Freeze
+Prepared Ignite
+Prepared Rupture
+Protector
+Pulverize
+Push
+Quick Attack
+Raider
+Raider Boost
+Raider Surge
+Ranged Parry
+Reactive Armor
+Refresh
+Regrowth
+Rend
+Resilient
+Resolute
+Resurgence
+Revitalize
+Rune of Earth
+Rune of Fire
+Rune of Moon
+Rune of Sea
+Rune of Sun
+Scale Piercer
+Sentinel
+Silencing Strike
+Skirmisher
+Slay Beast
+Slay Celestial
+Slay Construct
+Slay Demon
+Slay Dragon
+Slay Elemental
+Slay Insect
+Slay Lizard
+Slay Monstrosity
+Slay Ooze
+Slay Sylvan
+Slay Troll
+Slay Undead
+Sniper
+Song of Acid
+Song of Blood
+Song of Cold
+Song of Fire
+Song of Poison
+Soul Blade
+Split Second
+Steady Heal
+Strongpoint
+Stunning Strike
+Surge: Flying
+Survivor
+Swashbuckler
+Syphon Life
+Taunt
+Testudo
+Toxic Exposure
+Triage
+Trident & Net
+True Shot
+Tumble
+Undead Guard
+Unstoppable Force
+Upload file
+Vampirism
+Venom
+Water Walker
+Watery Grave
+Weakening Backstab
+Whirlwind
+Zeal of Life
