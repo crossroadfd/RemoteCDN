@@ -1,12 +1,10 @@
 {
     "herofiles": [
         "heroes_base.json",
-        "heroes_patch_001_1_16_26.json"
+        "heroes_patch_001_1_16_26.json",
+        "heroA4Gears.json"
     ],
     "traitfiles": [
         "BaseUnitTrait.json"
-    ],
-    "heroa4gears": [
-        "heroA4Gears.json"
     ]
 }

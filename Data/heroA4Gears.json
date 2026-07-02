@@ -2,7 +2,11 @@
   "heroes": [
     {
       "HeroName": "Tsunami",
-      "A4Gears": "DivineDagger,DivineRingOfSea,DivineGauntlets"
+        "A4Gears": [
+            "DivineDagger",
+            "DivineRingOfSea",
+            "DivineGauntlets"
+        ]
     }
  ]
 }
