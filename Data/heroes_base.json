@@ -8030,37 +8030,6 @@
       "BaseAI": "Evade(2)"
     },
     {
-      "Id": "Mist",
-      "HeroName": "Mist",
-      "BaseData": [
-        "Blue",
-        "5",
-        "Druid",
-        "Dragonborn",
-        "Melee",
-        "Cross"
-      ],
-      "Upgrade": [
-        0.357,
-        0.309
-      ],
-      "BaseStat": [
-        460,
-        1290,
-        550,
-        1570,
-        810,
-        2300,
-        1100,
-        3010,
-        0,
-        0
-      ],
-      "LeaderBonusA": "x1.45attand1.65deffor Blue",
-      "LeaderBonusB": "MeleeParry for Dragonborn",
-      "BaseAI": "Supporter(3)"
-    },
-    {
       "Id": "Steelgrip",
       "HeroName": "Steelgrip",
       "BaseData": [
