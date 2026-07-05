@@ -57,7 +57,7 @@
       "trait_ids": [113, 103, 103, 103, 56, 41, 41, 43, 56, 0, 189, 103, 56]
     },
     {
-      "name": "Aquatic Agil",
+      "name": "Aquatic_Agil",
       "trait_ids": [18, 173, 182, 111, 182, 23, 182, 18, 162, 0, 189, 18, 182]
     },
     {
@@ -133,7 +133,7 @@
       "trait_ids": [30, 172, 70, 37, 139, 30, 139, 73, 90, 30, 189, 163, 143]
     },
     {
-      "name": "Beloved Brianna",
+      "name": "Beloved_Brianna",
       "trait_ids": [203, 26, 26, 58, 58, 62, 211, 203, 203, 211, 189, 203, 28]
     },
     {
@@ -153,7 +153,7 @@
       "trait_ids": [197, 155, 69, 69, 114, 98, 78, 155, 26, 0, 189, 26, 25]
     },
     {
-      "name": "Bramble Rose",
+      "name": "Bramble_Rose",
       "trait_ids": [197, 155, 69, 69, 114, 98, 78, 155, 26, 0, 189, 26, 25]
     },
     {
@@ -225,7 +225,7 @@
     },
 
     {
-      "name": "Chivalrous Percival",
+      "name": "Chivalrous_Percival",
       "trait_ids": [82, 110, 90, 114, 114, 115, 136, 67, 46, 0, 189, 200, 29]
     },
 
@@ -295,7 +295,7 @@
     },
 
     {
-      "name": "Dashing Lysander",
+      "name": "Dashing_Lysander",
       "trait_ids": [203, 211, 154, 211, 60, 0, 60, 211, 211, 58, 189, 150, 58]
     },
 
@@ -315,7 +315,7 @@
     },
 
     {
-      "name": "Divine Einharl",
+      "name": "Divine_Einharl",
       "trait_ids": [197, 155, 25, 155, 25, 205, 114, 25, 155, 0, 189, 23, 25]
     },
 
@@ -569,7 +569,7 @@
     },
 
     {
-      "name": "Ghastly Cragg",
+      "name": "Ghastly_Cragg",
       "trait_ids": [113, 171, 69, 69, 211, 211, 145, 78, 41, 72, 189, 211, 30]
     },
 
@@ -614,7 +614,7 @@
     },
 
     {
-      "name": "Golden Lyra",
+      "name": "Golden_Lyra",
       "trait_ids": [30, 90, 23, 136, 30, 57, 57, 111, 57, 0, 189, 23, 143]
     },
 
@@ -639,7 +639,7 @@
     },
 
     {
-      "name": "Grim Griselda",
+      "name": "Grim_Griselda",
       "trait_ids": [166, 16, 27, 26, 26, 26, 69, 161, 114, 0, 189, 23, 114]
     },
 
@@ -873,7 +873,7 @@
     },
 
     {
-      "name": "Lucent Daedra",
+      "name": "Lucent_Daedra",
       "trait_ids": [75, 181, 75, 66, 62, 43, 66, 0, 62, 0, 189, 41, 69]
     },
 
@@ -1147,7 +1147,7 @@
     },
 
     {
-      "name": "Reveling Randolf",
+      "name": "Reveling_Randolf",
       "trait_ids": [28, 172, 67, 26, 28, 0, 26, 150, 28, 28, 189, 135, 78]
     },
 
@@ -1336,7 +1336,7 @@
     },
 
     {
-      "name": "Spring Radek",
+      "name": "Spring_Radek",
       "trait_ids": [203, 211, 211, 136, 62, 62, 69, 67, 203, 0, 189, 203, 69]
     },
 
@@ -1451,7 +1451,7 @@
     },
 
     {
-      "name": "Tropical Ariane",
+      "name": "Tropical_Ariane",
       "trait_ids": [28, 207, 150, 182, 182, 182, 58, 207, 150, 0, 189, 207, 150]
     },
 
@@ -1496,7 +1496,7 @@
     },
 
     {
-      "name": "Vengeful Shani",
+      "name": "Vengeful_Shani",
       "trait_ids": [21, 145, 90, 145, 207, 0, 211, 150, 211, 211, 189, 150, 207]
     },
 
@@ -1531,7 +1531,7 @@
     },
 
     {
-      "name": "Wild Caledor",
+      "name": "Wild_Caledor",
       "trait_ids": [81, 111, 182, 202, 182, 207, 207, 111, 182, 0, 189, 108, 75]
     },
 
