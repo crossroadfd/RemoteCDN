@@ -321,7 +321,7 @@
 "A0Gears":["RadiantAmuletOfSun","MythicWand","MythicRingOfSun","MythicHat","EpicOrb","MythicHideArmor"],																
 "A1Gears":["BrilliantAmuletOfSun","LegendaryWand","LegendaryRingOfSun","LegendaryHat","MythicOrb","MythicHideArmor"],																
 "A2Gears":["IncandescentAmuletOfSun","DivineWand","ExaltedRingOfSun","ExaltedHat","LegendaryOrb","LegendaryHideArmor"],																
-"A3Gears":["IncandescentAmuletOfSun","DivineWand","DivineRingOfSun","ExaltedHat","ExaltedOrb,ExaltedHideArmor"],																
+"A3Gears":["IncandescentAmuletOfSun","DivineWand","DivineRingOfSun","ExaltedHat","ExaltedOrb","ExaltedHideArmor"],																
 "A4Gears":["","","","","",""]																
 },																
 {																
@@ -600,7 +600,7 @@
 "A0Gears":["RadiantAmuletOfEarth","MythicWand","MythicRingOfEarth","MythicHat","MythicOrb","EpicTabard"],																
 "A1Gears":["BrilliantAmuletOfEarth","MythicWand","LegendaryRingOfEarth","LegendaryHat","LegendaryOrb","MythicTabard"],																
 "A2Gears":["IncandescentAmuletOfEarth","LegendaryWand","DivineRingOfEarth","ExaltedHat","ExaltedOrb","LegendaryTabard"],																
-"A3Gears":["IncandescentAmuletOfEarth","ExaltedWand","DivineRingOfEarth","DivineHat","ExaltedOrb,ExaltedTabard"],																
+"A3Gears":["IncandescentAmuletOfEarth","ExaltedWand","DivineRingOfEarth","DivineHat","ExaltedOrb","ExaltedTabard"],																
 "A4Gears":["","","","","",""]																
 },																
 {																
@@ -969,7 +969,7 @@
 "A0Gears":["RadiantAmuletOfEarth","EpicWand","EpicRingOfEarth","EpicHat","EpicOrb","MagicPlateMail"],																
 "A1Gears":["BrilliantAmuletOfEarth","MythicWand","MythicRingOfEarth","EpicHat","EpicOrb","EpicPlateMail"],																
 "A2Gears":["CoruscatingAmuletOfEarth","MythicWand","MythicRingOfEarth","MythicHat","MythicOrb","LegendaryPlateMail"],																
-"A3Gears":["IncandescentAmuletOfEarth","ExaltedWand","LegendaryRingOfEarth","LegendaryHat","LegendaryOrb,ExaltedPlateMail"],																
+"A3Gears":["IncandescentAmuletOfEarth","ExaltedWand","LegendaryRingOfEarth","LegendaryHat","LegendaryOrb","ExaltedPlateMail"],																
 "A4Gears":["","ExaltedWand","ExaltedRingOfEarth","LegendaryHat","LegendaryOrb","ExaltedPlateMail"]																
 },																
 {																
@@ -1301,7 +1301,7 @@
 "HeroName":"Illyria",																
 "A0Gears":["RadiantAmuletOfSun","MythicWand","EpicRingOfSun","MythicHat","MythicOrb","MythicRobe"],																
 "A1Gears":["BrilliantAmuletOfSun","LegendaryWand","MythicRingOfSun","MythicHat","LegendaryOrb","LegendaryRobe"],																
-"A2Gears":["IncandescentAmuletOfSun","ExaltedWand","LegendaryRingOfSun","LegendaryHat","DivineOrb,ExaltedRobe"],																
+"A2Gears":["IncandescentAmuletOfSun","ExaltedWand","LegendaryRingOfSun","LegendaryHat","DivineOrb","ExaltedRobe"],																
 "A3Gears":["IncandescentAmuletOfSun","ExaltedWand","ExaltedRingOfSun","ExaltedHat","DivineOrb","DivineRobe"],																
 "A4Gears":["","","","","",""]																
 },																
@@ -1382,7 +1382,7 @@
 "HeroName":"Kazz",																
 "A0Gears":["RadiantAmuletOfFire","MythicWand","EpicRingOfFire","MythicHat","MythicOrb","MythicPlateMail"],																
 "A1Gears":["BrilliantAmuletOfFire","LegendaryWand","MythicRingOfFire","MythicHat","LegendaryOrb","LegendaryPlateMail"],																
-"A2Gears":["IncandescentAmuletOfFire","ExaltedWand","LegendaryRingOfFire","LegendaryHat","DivineOrb,ExaltedPlateMail"],																
+"A2Gears":["IncandescentAmuletOfFire","ExaltedWand","LegendaryRingOfFire","LegendaryHat","DivineOrb","ExaltedPlateMail"],																
 "A3Gears":["IncandescentAmuletOfFire","ExaltedWand","ExaltedRingOfFire","ExaltedHat","DivineOrb","DivinePlateMail"],																
 "A4Gears":["","","","","",""]																
 },																
@@ -1562,8 +1562,8 @@
 "HeroName":"Lumi",																
 "A0Gears":["RadiantAmuletOfSun","EpicWand","EpicRingOfSun","EpicHat","EpicOrb","MythicLeatherArmor"],																
 "A1Gears":["BrilliantAmuletOfSun","LegendaryWand","MythicRingOfSun","MythicHat","MythicOrb","MythicLeatherArmor"],																
-"A2Gears":["CoruscatingAmuletOfSun","ExaltedWand","LegendaryRingOfSun","LegendaryHat","LegendaryOrb,ExaltedLeatherArmor"],																
-"A3Gears":["IncandescentAmuletOfSun","DivineWand","DivineRingOfSun","ExaltedHat","ExaltedOrb,ExaltedLeatherArmor"],																
+"A2Gears":["CoruscatingAmuletOfSun","ExaltedWand","LegendaryRingOfSun","LegendaryHat","LegendaryOrb","ExaltedLeatherArmor"],																
+"A3Gears":["IncandescentAmuletOfSun","DivineWand","DivineRingOfSun","ExaltedHat","ExaltedOrb","ExaltedLeatherArmor"],																
 "A4Gears":["","DivineWand","DivineRingOfSun","","ExaltedOrb","ExaltedLeatherArmor"]																
 },																
 {																
@@ -1662,7 +1662,7 @@
 "A0Gears":["RadiantAmuletOfMoon","MythicWand","MythicRingOfMoon","MythicHat","MythicOrb","EpicTabard"],																
 "A1Gears":["BrilliantAmuletOfMoon","MythicWand","LegendaryRingOfMoon","LegendaryHat","LegendaryOrb","MythicTabard"],																
 "A2Gears":["IncandescentAmuletOfMoon","LegendaryWand","DivineRingOfMoon","ExaltedHat","ExaltedOrb","LegendaryTabard"],																
-"A3Gears":["IncandescentAmuletOfMoon","ExaltedWand","DivineRingOfMoon","DivineHat","ExaltedOrb,ExaltedTabard"],																
+"A3Gears":["IncandescentAmuletOfMoon","ExaltedWand","DivineRingOfMoon","DivineHat","ExaltedOrb","ExaltedTabard"],																
 "A4Gears":["","","","","",""]																
 },																
 {																
@@ -1671,7 +1671,7 @@
 "A0Gears":["RadiantAmuletOfSun","MythicWand","MythicRingOfSun","MythicHat","MythicOrb","EpicTabard"],																
 "A1Gears":["BrilliantAmuletOfSun","MythicWand","LegendaryRingOfSun","LegendaryHat","LegendaryOrb","MythicTabard"],																
 "A2Gears":["IncandescentAmuletOfSun","LegendaryWand","DivineRingOfSun","ExaltedHat","ExaltedOrb","LegendaryTabard"],																
-"A3Gears":["IncandescentAmuletOfSun","ExaltedWand","DivineRingOfSun","DivineHat","ExaltedOrb,ExaltedTabard"],																
+"A3Gears":["IncandescentAmuletOfSun","ExaltedWand","DivineRingOfSun","DivineHat","ExaltedOrb","ExaltedTabard"],																
 "A4Gears":["","","","","",""]																
 },																
 {																
@@ -2399,7 +2399,7 @@
 "HeroName":"Sylvain",																
 "A0Gears":["RadiantAmuletOfEarth","EpicWand","EpicRingOfEarth","EpicHat","MythicOrb","EpicRobe"],																
 "A1Gears":["BrilliantAmuletOfEarth","MythicWand","MythicRingOfEarth","MythicHat","MythicOrb","LegendaryRobe"],																
-"A2Gears":["CoruscatingAmuletOfEarth","LegendaryWand","LegendaryRingOfEarth","LegendaryHat","ExaltedOrb,ExaltedRobe"],																
+"A2Gears":["CoruscatingAmuletOfEarth","LegendaryWand","LegendaryRingOfEarth","LegendaryHat","ExaltedOrb","ExaltedRobe"],																
 "A3Gears":["IncandescentAmuletOfEarth","DivineWand","ExaltedRingOfEarth","ExaltedHat","ExaltedOrb","DivineRobe"],																
 "A4Gears":["","DivineWand","","ExaltedHat","ExaltedOrb","DivineRobe"]																
 },																
