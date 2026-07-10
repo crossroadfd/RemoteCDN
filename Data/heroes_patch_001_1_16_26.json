@@ -40,6 +40,256 @@
             "LeaderBonusA": "x1.65attand1.65deffor Red",
             "LeaderBonusB": "BrutalAttack for Beastfolk",
             "BaseAI": "Charge(4)"
-        }
+        },
+        {
+            "Id":"Aurin",
+"HeroName":"Aurin",
+"BaseData":["Light","5","Druid","Dwarf","Melee","Cross"],
+"Upgrade":[0.412,0.411],
+"BaseStat":[350,1210,450,1560,630,2190,890,3090,0,0],
+"LeaderBonusA":"x1.50 att and 1.80 def for Light",
+"LeaderBonusB":"Melee Parry for Dwarf",
+"BaseAI":"Supporter (3)"
+},
+{
+"Id":"Brom",
+"HeroName":"Brom",
+"BaseData":["Light","5","Knight","Dwarf","Melee","Cross"],
+"Upgrade":[0.413,0.419],
+"BaseStat":[420,1800,530,2270,800,3390,1130,4810,0,0],
+"LeaderBonusA":"x1.40 att and 1.70 def for Light",
+"LeaderBonusB":"Melee Parry for Dwarf",
+"BaseAI":"Charge (4)"
+},
+{
+"Id":"Cassius",
+"HeroName":"Cassius",
+"BaseData":["Red","5","Rogue","Human","Melee","Star"],
+"Upgrade":[0.44,0.442],
+"BaseStat":[500,750,680,1020,1090,1630,1570,2350,0,0],
+"LeaderBonusA":"x1.65 att and 1.65 def for Red",
+"LeaderBonusB":"Whirlwind for Human",
+"BaseAI":"Charge (4)"
+},
+{
+"Id":"Crimson",
+"HeroName":"Crimson",
+"BaseData":["Red","5","Javelineer","Beastfolk","Ranged","Cross"],
+"Upgrade":[0.268,0.27],
+"BaseStat":[560,720,760,980,1230,1590,1560,2020,0,0],
+"LeaderBonusA":"x1.65 att and 1.65 def for Red",
+"LeaderBonusB":"Ranged Parry for Beastfolk",
+"BaseAI":"Evade (2)"
+},
+{
+"Id":"Dolin",
+"HeroName":"Dolin",
+"BaseData":["Green","5","Ranger","Dwarf","Ranged","Star"],
+"Upgrade":[0.286,0.285],
+"BaseStat":[390,740,570,1070,840,1580,1080,2030,0,0],
+"LeaderBonusA":"x1.40 att and 1.70 def for Green",
+"LeaderBonusB":"Ranged Parry for Dwarf",
+"BaseAI":"Charge (3)"
+},
+{
+"Id":"Elgroth",
+"HeroName":"Elgroth",
+"BaseData":["Green","5","Barbarian","Elf","Melee","Star"],
+"Upgrade":[0.378,0.382],
+"BaseStat":[400,1180,580,1720,900,2670,1240,3690,0,0],
+"LeaderBonusA":"x1.80 att and 1.50 def for Green",
+"LeaderBonusB":"Melee Parry for Elf",
+"BaseAI":"Charge (4)"
+},
+{
+"Id":"Fargok",
+"HeroName":"Fargok",
+"BaseData":["Green","5","Pirate","Orc","Melee","Cross"],
+"Upgrade":[0.155,0.154],
+"BaseStat":[670,1010,950,1420,1350,2020,1560,2330,0,0],
+"LeaderBonusA":"x1.70 att and 1.40 def for Green",
+"LeaderBonusB":"Brutal Attack for Orc",
+"BaseAI":"Charge (4)"
+},
+{
+"Id":"Flicker",
+"HeroName":"Flicker",
+"BaseData":["Light","5","Gladiator","Beastfolk","Melee","Cross"],
+"Upgrade":[0.46,0.459],
+"BaseStat":[590,1370,800,1860,1150,2680,1680,3910,0,0],
+"LeaderBonusA":"x1.65 att and 1.65 def for Light",
+"LeaderBonusB":"Immune To Taunt for Beastfolk",
+"BaseAI":"Charge (4)"
+},
+{
+"Id":"Frostfang",
+"HeroName":"Frostfang",
+"BaseData":["Green","5","Barbarian","Orc","Melee","Star"],
+"Upgrade":[0.359,0.356],
+"BaseStat":[410,1160,520,1470,700,2000,890,2530,0,0],
+"LeaderBonusA":"x1.85 att and 1.60 def for Green Orc",
+"LeaderBonusB":"Melee Parry for Orc",
+"BaseAI":"Charge (4)"
+},
+{
+"Id":"Garnabur",
+"HeroName":"Garnabur",
+"BaseData":["Green","5","Druid","Dwarf","Melee","Cross"],
+"Upgrade":[0.402,0.43],
+"BaseStat":[220,1800,310,2530,470,3770,660,5390,0,0],
+"LeaderBonusA":"x1.50 att and 1.80 def for Green",
+"LeaderBonusB":"Melee Parry for Dwarf",
+"BaseAI":"Supporter (3)"
+},
+{
+"Id":"Glare",
+"HeroName":"Glare",
+"BaseData":["Light","5","Archer","Beastfolk","Ranged","Cross"],
+"Upgrade":[0.236,0.234],
+"BaseStat":[750,660,1070,940,1650,1450,2040,1790,0,0],
+"LeaderBonusA":"x1.65 att and 1.65 def for Light",
+"LeaderBonusB":"Focus for Beastfolk",
+"BaseAI":"Evade (2)"
+},
+{
+"Id":"Gleam",
+"HeroName":"Gleam",
+"BaseData":["Light","5","Assassin","Beastfolk","Melee","Cross"],
+"Upgrade":[0.365,0.366],
+"BaseStat":[960,840,1230,1080,1840,1610,2510,2200,0,0],
+"LeaderBonusA":"x1.55 att and 1.55 def for Light",
+"LeaderBonusB":"Focus for Beastfolk",
+"BaseAI":"Charge (4)"
+},
+{
+"Id":"Harrig",
+"HeroName":"Harrig",
+"BaseData":["Green","5","Hunter","Dwarf","Ranged","Cross"],
+"Upgrade":[0.213,0.216],
+"BaseStat":[540,1210,770,1720,1180,2630,1430,3200,0,0],
+"LeaderBonusA":"x1.50 att and 1.80 def for Green",
+"LeaderBonusB":"Ranged Parry for Dwarf",
+"BaseAI":"Evade (2)"
+},
+{
+"Id":"Isil",
+"HeroName":"Isil",
+"BaseData":["Green","3","Ranger","Elf","Ranged","Star"],
+"Upgrade":[0.207,0.194],
+"BaseStat":[340,510,420,630,580,870,700,1040,790,1180],
+"LeaderBonusA":"x1.45 att for Green",
+"LeaderBonusB":"x1.35 def for Elf",
+"BaseAI":"Charge (3)"
+},
+{
+"Id":"Lunethar",
+"HeroName":"Lunethar",
+"BaseData":["Dark","5","Knight","Elf","Melee","Cross"],
+"Upgrade":[0.294,0.296],
+"BaseStat":[280,1820,380,2450,580,3720,750,4820,0,0],
+"LeaderBonusA":"x1.70 att and 1.40 def for Dark",
+"LeaderBonusB":"Melee Parry for Elf",
+"BaseAI":"Charge (4)"
+},
+{
+"Id":"Maegra",
+"HeroName":"Maegra",
+"BaseData":["Red","4","Barbarian","Orc","Melee","Star"],
+"Upgrade":[0.305,0.301],
+"BaseStat":[330,940,440,1070,590,1500,770,1950,870,2190],
+"LeaderBonusA":"x1.60 att for Red",
+"LeaderBonusB":"x1.40 def for Orc",
+"BaseAI":"Charge (4)"
+},
+{
+"Id":"Malveria",
+"HeroName":"Malveria",
+"BaseData":["Red","5","Warlock","Elf","Magic","Cross"],
+"Upgrade":[0.475,0.473],
+"BaseStat":[320,800,460,1150,650,1650,960,2430,0,0],
+"LeaderBonusA":"x1.80 att and 1.50 def for Red",
+"LeaderBonusB":"Exploit Weakness for Elf",
+"BaseAI":"Evade (2)"
+},
+{
+"Id":"Nok",
+"HeroName":"Nok",
+"BaseData":["Light","5","Ranger","Orc","Ranged","Star"],
+"Upgrade":[0.341,0.341],
+"BaseStat":[370,680,530,990,820,1290,1100,1730,0,0],
+"LeaderBonusA":"x1.70 att and 1.40 def for Light",
+"LeaderBonusB":"Ranged Parry for Orc",
+"BaseAI":"Charge (3)"
+},
+{
+"Id":"Orik",
+"HeroName":"Orik",
+"BaseData":["Light","5","Monk","Dwarf","Melee","Star"],
+"Upgrade":[0.283,0.282],
+"BaseStat":[520,780,680,1020,990,1490,1270,1910,0,0],
+"LeaderBonusA":"x1.50 att and 1.80 def for Light",
+"LeaderBonusB":"Melee Parry for Dwarf",
+"BaseAI":"Charge (4)"
+},
+{
+"Id":"Prism",
+"HeroName":"Prism",
+"BaseData":["Light","4","Monk","Beastfolk","Melee","Star"],
+"Upgrade":[0.194,0.19],
+"BaseStat":[420,980,560,1310,720,1680,860,2000,980,2280],
+"LeaderBonusA":"x1.50 att for Light",
+"LeaderBonusB":"x1.50 def for Beastfolk",
+"BaseAI":"Charge (4)"
+},
+{
+"Id":"Seplin",
+"HeroName":"Seplin",
+"BaseData":["Green","5","Javelineer","Dwarf","Ranged","Cross"],
+"Upgrade":[0.325,0.327],
+"BaseStat":[590,800,720,980,1170,1590,1550,2110,0,0],
+"LeaderBonusA":"x1.50 att and 1.80 def for Green",
+"LeaderBonusB":"Ranged Parry for Dwarf",
+"BaseAI":"Evade (2)"
+},
+{
+"Id":"Skylash",
+"HeroName":"Skylash",
+"BaseData":["Blue","5","Rogue","Dragonborn","Melee","Star"],
+"Upgrade":[0.399,0.39],
+"BaseStat":[460,900,640,1260,1080,1870,1510,2600,0,0],
+"LeaderBonusA":"x1.40 att and 1.70 def for Blue",
+"LeaderBonusB":"Whirlwind for Dragonborn",
+"BaseAI":"Charge (4)"
+},
+{
+"Id":"Sunmend",
+"HeroName":"Sunmend",
+"BaseData":["Light","5","Paladin","Dragonborn","Melee","Cross"],
+"Upgrade":[0.388,0.394],
+"BaseStat":[320,1120,430,1490,590,2060,820,2870,0,0],
+"LeaderBonusA":"x1.50 att and 1.80 def for Light",
+"LeaderBonusB":"Protector for Dragonborn",
+"BaseAI":"Supporter (3)"
+},
+{
+"Id":"Urzmorga",
+"HeroName":"Urzmorga",
+"BaseData":["Red","5","Witch","Orc","Magic","Cross"],
+"Upgrade":[0.339,0.345],
+"BaseStat":[300,1130,420,1580,590,2230,790,3000,0,0],
+"LeaderBonusA":"x1.70 att and 1.40 def for Red",
+"LeaderBonusB":"Magic Parry for Orc",
+"BaseAI":"Charge (3)"
+},
+{
+"Id":"Yeora",
+"HeroName":"Yeora",
+"BaseData":["Blue","5","Rogue","Elf","Melee","Star"],
+"Upgrade":[0.329,0.319],
+"BaseStat":[460,900,620,1220,850,1470,1130,1940,0,0],
+"LeaderBonusA":"x1.70 att and 1.40 def for Blue",
+"LeaderBonusB":"Whirlwind for Elf",
+"BaseAI":"Charge (4)"
+}
     ]
 }
