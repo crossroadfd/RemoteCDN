@@ -1,37 +1,6 @@
 {
   "heroes": [
     {
-      "Id": "Agatha",
-      "HeroName": "Agatha",
-      "BaseData": [
-        "Dark",
-        "4",
-        "Assassin",
-        "Human",
-        "Melee",
-        "Cross"
-      ],
-      "Upgrade": [
-        0.162,
-        0.168
-      ],
-      "BaseStat": [
-        760,
-        930,
-        940,
-        1160,
-        1230,
-        1670,
-        1430,
-        1950,
-        0,
-        0
-      ],
-      "LeaderBonusA": "",
-      "LeaderBonusB": "",
-      "BaseAI": ""
-    },
-    {
       "Id": "Agil",
       "HeroName": "Agil",
       "BaseData": [
@@ -10380,6 +10349,37 @@
         1410,
         1280,
         1650
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Agatha",
+      "HeroName": "Agatha",
+      "BaseData": [
+        "Dark",
+        "4",
+        "Assassin",
+        "Human",
+        "Melee",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.162,
+        0.168
+      ],
+      "BaseStat": [
+        760,
+        930,
+        940,
+        1160,
+        1230,
+        1670,
+        1430,
+        1950,
+        0,
+        0
       ],
       "LeaderBonusA": "",
       "LeaderBonusB": "",
