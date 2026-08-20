@@ -1,37 +1,6 @@
 {
   "heroes": [
     {
-      "Id": "Adana",
-      "HeroName": "Adana",
-      "BaseData": [
-        "Green",
-        "3",
-        "Assassin",
-        "Human",
-        "Melee",
-        "Cross"
-      ],
-      "Upgrade": [
-        0.113,
-        0.12
-      ],
-      "BaseStat": [
-        580,
-        750,
-        730,
-        940,
-        980,
-        1260,
-        1090,
-        1410,
-        1280,
-        1650
-      ],
-      "LeaderBonusA": "x1.35attfor Green",
-      "LeaderBonusB": "x1.35deffor Human",
-      "BaseAI": "Charge(4)"
-    },
-    {
       "Id": "Agatha",
       "HeroName": "Agatha",
       "BaseData": [
@@ -58,9 +27,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Dark",
-      "LeaderBonusB": "x1.45deffor Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Agil",
@@ -89,9 +58,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.40deffor Light",
-      "LeaderBonusB": "RangedParry for Orc",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Ahzura",
@@ -120,9 +89,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.80deffor Blue",
-      "LeaderBonusB": "ExploitWeakness for Dwarf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Aigror",
@@ -151,9 +120,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attand1.70deffor Red",
-      "LeaderBonusB": "Protector for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Akasha",
@@ -182,9 +151,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.40deffor Blue",
-      "LeaderBonusB": "MagicParry for Orc",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Alaric",
@@ -213,9 +182,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Dark",
-      "LeaderBonusB": "x1.55deffor Dwarf",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Aldebaran",
@@ -244,9 +213,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Dark",
-      "LeaderBonusB": "x1.55deffor Dwarf",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Alyssandra",
@@ -275,9 +244,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Light",
-      "LeaderBonusB": "MagicParry for Human",
-      "BaseAI": "Supporter(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Alyssandy",
@@ -306,9 +275,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.75attand1.70deffor BlueHuman",
-      "LeaderBonusB": "MagicParry for Human",
-      "BaseAI": "Supporter(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Amberwing",
@@ -337,9 +306,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attand1.65deffor Light",
-      "LeaderBonusB": "MeleeParry for Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Amelia",
@@ -368,9 +337,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.75attand1.55deffor Light",
-      "LeaderBonusB": "SongofAcid for Bard",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Angus",
@@ -399,9 +368,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.30attfor Red",
-      "LeaderBonusB": "x1.40deffor Dwarf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Apollus",
@@ -430,9 +399,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Red",
-      "LeaderBonusB": "MeleeParry for Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Aquatic_Agil",
@@ -461,9 +430,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.85attand1.60deffor BlueOrc",
-      "LeaderBonusB": "RangedParry for Orc",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Arafin",
@@ -492,9 +461,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.80attand1.60deffor DarkElf",
-      "LeaderBonusB": "ExploitWeakness for Elf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Ariane",
@@ -523,9 +492,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Green",
-      "LeaderBonusB": "RangedParry for Elf",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Arilda",
@@ -554,9 +523,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Light",
-      "LeaderBonusB": "x1.55deffor Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Arkhan",
@@ -585,9 +554,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.30attfor Dark",
-      "LeaderBonusB": "x1.40deffor Dwarf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Arryn",
@@ -616,9 +585,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attand1.25deffor Light",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Charge(4)"
+      "BaseAI": ""
     },
     {
       "Id": "Ashtalon",
@@ -647,9 +616,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attand1.65deffor Dark",
-      "LeaderBonusB": "MeleeParry for Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Augar",
@@ -678,9 +647,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.40deffor Dark",
-      "LeaderBonusB": "MeleeParry for Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Aurora",
@@ -709,9 +678,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Light",
-      "LeaderBonusB": "MagicParry for Human",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Aveline",
@@ -740,9 +709,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.75attand1.55deffor Green or AlphaGenesis",
-      "LeaderBonusB": "MagicParry for Elf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Azgog",
@@ -771,9 +740,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.80attand1.50deffor Red",
-      "LeaderBonusB": "MeleeParry for Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Azurefang",
@@ -802,9 +771,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.30attfor Blue",
-      "LeaderBonusB": "x1.40deffor Dragonborn",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Baldric",
@@ -833,9 +802,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.80deffor Green",
-      "LeaderBonusB": "BrutalAttack for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Bari",
@@ -864,9 +833,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attand1.70deffor Light",
-      "LeaderBonusB": "MeleeParry for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Bastian",
@@ -895,9 +864,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.60deffor Blue",
-      "LeaderBonusB": "MeleeParry for Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Beatrix",
@@ -926,9 +895,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attand1.70deffor Dark",
-      "LeaderBonusB": "MeleeParry for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Belladonna",
@@ -957,9 +926,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.75deffor DarkBeastfolk",
-      "LeaderBonusB": "ExploitWeakness for Beastfolk",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Belle",
@@ -988,9 +957,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Light",
-      "LeaderBonusB": "MeleeParry for Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Beloved_Brianna",
@@ -1019,9 +988,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.85deffor RedDwarf",
-      "LeaderBonusB": "MeleeParry for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Blackfire",
@@ -1050,9 +1019,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attand1.65deffor Red",
-      "LeaderBonusB": "MeleeParry for Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Blaise",
@@ -1081,9 +1050,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Red",
-      "LeaderBonusB": "x1.45deffor Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Brakka",
@@ -1112,9 +1081,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.80attand1.50deffor Light",
-      "LeaderBonusB": "MagicParry for Orc",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Bramble",
@@ -1143,9 +1112,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.75deffor GreenBeastfolk",
-      "LeaderBonusB": "Bloodlust for Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Bramble_Rose",
@@ -1174,9 +1143,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.75deffor RedBeastfolk",
-      "LeaderBonusB": "Bloodlust for Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Branchard",
@@ -1205,9 +1174,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attand1.70deffor Red",
-      "LeaderBonusB": "RangedParry for Dwarf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Brandon",
@@ -1236,9 +1205,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Blue",
-      "LeaderBonusB": "x1.45deffor Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Brassblade",
@@ -1267,9 +1236,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Light",
-      "LeaderBonusB": "x1.55deffor Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Brianna",
@@ -1298,9 +1267,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attand1.70deffor Green",
-      "LeaderBonusB": "MeleeParry for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Brightbrook",
@@ -1329,9 +1298,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Blue",
-      "LeaderBonusB": "x1.55deffor Dragonborn",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Broxx",
@@ -1360,9 +1329,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Green",
-      "LeaderBonusB": "x1.35deffor Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Brula",
@@ -1391,9 +1360,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attand1.70deffor Dark",
-      "LeaderBonusB": "MeleeParry for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Caldera",
@@ -1422,9 +1391,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.70deffor Red",
-      "LeaderBonusB": "MeleeParry for Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Caledor",
@@ -1453,9 +1422,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Dark",
-      "LeaderBonusB": "RangedParry for Elf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Callista",
@@ -1484,9 +1453,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Blue",
-      "LeaderBonusB": "MeleeParry for Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Camron",
@@ -1515,9 +1484,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.25attand1.35deffor Red",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Charge(4)"
+      "BaseAI": ""
     },
     {
       "Id": "Caraway",
@@ -1546,9 +1515,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Green",
-      "LeaderBonusB": "x1.45deffor Beastfolk",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Cassandra",
@@ -1577,9 +1546,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Green",
-      "LeaderBonusB": "x1.35deffor Elf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Celeste",
@@ -1608,9 +1577,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Dark",
-      "LeaderBonusB": "x1.35deffor Elf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Chivalrous_Percival",
@@ -1639,9 +1608,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.75attand1.70deffor RedHuman",
-      "LeaderBonusB": "MeleeParry for Human",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Ciadrine",
@@ -1670,9 +1639,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.80attand1.60deffor LightElf",
-      "LeaderBonusB": "Bloodlust for Elf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Cindertongue",
@@ -1701,9 +1670,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.25attand1.35deffor Green",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Charge(4)"
+      "BaseAI": ""
     },
     {
       "Id": "Cinderwhisk",
@@ -1732,9 +1701,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.70deffor Red or AlphaGenesis",
-      "LeaderBonusB": "Protector for Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Coalbone",
@@ -1763,9 +1732,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "ExtraTime for Dark",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Supporter(3)"
+      "BaseAI": ""
     },
     {
       "Id": "Coppermaw",
@@ -1794,9 +1763,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.30attfor Red",
-      "LeaderBonusB": "x1.40deffor Dragonborn",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Coralgrin",
@@ -1825,9 +1794,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Green",
-      "LeaderBonusB": "x1.55deffor Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Corinne",
@@ -1856,9 +1825,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Red",
-      "LeaderBonusB": "x1.45deffor Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Cragg",
@@ -1887,9 +1856,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.40deffor Red",
-      "LeaderBonusB": "MeleeParry for Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Crystal",
@@ -1918,9 +1887,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "ExtraTime for Blue",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Charge(4)"
+      "BaseAI": ""
     },
     {
       "Id": "Daedra",
@@ -1949,9 +1918,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Red",
-      "LeaderBonusB": "MagicParry for Human",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Dahlia",
@@ -1980,9 +1949,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attfor Light",
-      "LeaderBonusB": "x1.30deffor Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Daryl",
@@ -2011,9 +1980,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.30attand1.30deffor Green",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Evade(2)"
+      "BaseAI": ""
     },
     {
       "Id": "Dashing_Lysander",
@@ -2042,9 +2011,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Red",
-      "LeaderBonusB": "x1.45deffor Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Dawnshimmer",
@@ -2073,9 +2042,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attand1.75deffor Green",
-      "LeaderBonusB": "MagicParry for Dragonborn",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Deathblossom",
@@ -2104,9 +2073,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attand1.75defforDark",
-      "LeaderBonusB": "MeleeParryforDragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Dianthe",
@@ -2135,9 +2104,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.75attand1.55deffor Red",
-      "LeaderBonusB": "SongofPoison for Bard",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Divine_Einharl",
@@ -2166,9 +2135,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.75attand1.70deffor LightHuman",
-      "LeaderBonusB": "Bloodlust for Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Dolorea",
@@ -2197,9 +2166,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.60deffor Dark",
-      "LeaderBonusB": "ExploitWeakness for Human",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Dorian",
@@ -2228,9 +2197,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "ExtraTime for Light",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Charge(4)"
+      "BaseAI": ""
     },
     {
       "Id": "Dracyian",
@@ -2259,9 +2228,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Dark",
-      "LeaderBonusB": "Protector for Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Draigh",
@@ -2290,9 +2259,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.85attand1.55deffor RedOrc",
-      "LeaderBonusB": "ExploitWeakness for Orc",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Drak",
@@ -2321,9 +2290,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.40deffor Dark",
-      "LeaderBonusB": "ImmuneToTaunt for Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Dralgion",
@@ -2352,9 +2321,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attand1.70deffor Red",
-      "LeaderBonusB": "MagicParry for Dwarf",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Dravok",
@@ -2383,9 +2352,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attand1.70deffor Green",
-      "LeaderBonusB": "MeleeParry for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Drift",
@@ -2414,9 +2383,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.60deffor Blue",
-      "LeaderBonusB": "RangedParry for Beastfolk",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Durzol",
@@ -2445,9 +2414,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.40deffor Light",
-      "LeaderBonusB": "MeleeParry for Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Dusk",
@@ -2476,9 +2445,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.60deffor Dark",
-      "LeaderBonusB": "RangedParry for Beastfolk",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Earthblood",
@@ -2507,9 +2476,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Green",
-      "LeaderBonusB": "x1.55deffor Dragonborn",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Ebon",
@@ -2538,9 +2507,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.60deffor Dark",
-      "LeaderBonusB": "Protector for Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Einharl",
@@ -2569,9 +2538,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.75attand1.65deffor BlueHuman",
-      "LeaderBonusB": "Bloodlust for Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Elesha",
@@ -2600,9 +2569,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Red",
-      "LeaderBonusB": "RangedParry for Human",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Elethas",
@@ -2631,9 +2600,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Blue",
-      "LeaderBonusB": "MagicParry for Elf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Elgar",
@@ -2662,9 +2631,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.30attand1.30deffor Blue",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Supporter(2)"
+      "BaseAI": ""
     },
     {
       "Id": "Ellarion",
@@ -2693,9 +2662,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Red",
-      "LeaderBonusB": "MagicParry for Elf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Ellie",
@@ -2724,9 +2693,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.60deffor Light or AlphaGenesis",
-      "LeaderBonusB": "MeleeParry for Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Elliot",
@@ -2755,9 +2724,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Light",
-      "LeaderBonusB": "x1.35deffor Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Elmenora",
@@ -2786,9 +2755,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Red",
-      "LeaderBonusB": "MeleeParry for Elf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Elora",
@@ -2817,9 +2786,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Dark",
-      "LeaderBonusB": "MeleeParry for Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Embera",
@@ -2848,9 +2817,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Red",
-      "LeaderBonusB": "ImmuneToTaunt for Elf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Emberheart",
@@ -2879,9 +2848,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "ExtraTime for Red",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Evade(2)"
+      "BaseAI": ""
     },
     {
       "Id": "Emeraldcrown",
@@ -2910,9 +2879,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Green",
-      "LeaderBonusB": "x1.55deffor Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Emeray",
@@ -2941,9 +2910,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Green",
-      "LeaderBonusB": "x1.55deffor Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Emory",
@@ -2972,9 +2941,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Blue",
-      "LeaderBonusB": "MagicParry for Human",
-      "BaseAI": "Supporter(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Farris",
@@ -3003,9 +2972,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Blue",
-      "LeaderBonusB": "x1.45deffor Human",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Fawke",
@@ -3034,9 +3003,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.75attand1.65deffor DarkHuman",
-      "LeaderBonusB": "BrutalAttack for Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Fayra",
@@ -3065,9 +3034,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Green",
-      "LeaderBonusB": "MeleeParry for Elf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Fenreap",
@@ -3096,9 +3065,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.75attand1.70deffor BlueHuman",
-      "LeaderBonusB": "RangedParry for Human",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Fenris",
@@ -3127,9 +3096,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Dark",
-      "LeaderBonusB": "RangedParry for Human",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Fimbryn",
@@ -3158,9 +3127,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Dark",
-      "LeaderBonusB": "MeleeParry for Elf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Firesoul",
@@ -3189,9 +3158,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attand1.75deffor Red",
-      "LeaderBonusB": "MagicParry for Dragonborn",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Flamescale",
@@ -3220,9 +3189,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attand1.65deffor Red",
-      "LeaderBonusB": "MeleeParry for Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Flare",
@@ -3251,9 +3220,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.60deffor Light",
-      "LeaderBonusB": "MagicParry for Beastfolk",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Flint",
@@ -3282,9 +3251,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.70deffor Red",
-      "LeaderBonusB": "RangedParry for Beastfolk",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Floralgrin",
@@ -3313,9 +3282,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Blue",
-      "LeaderBonusB": "x1.55deffor Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Frida",
@@ -3344,9 +3313,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.30attfor Green",
-      "LeaderBonusB": "x1.40deffor Dwarf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Frostgar",
@@ -3375,9 +3344,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.85attand1.60deffor GreenOrc",
-      "LeaderBonusB": "MeleeParry for Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Fulgrin",
@@ -3406,9 +3375,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.80deffor Red",
-      "LeaderBonusB": "BrutalAttack for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Furia",
@@ -3437,9 +3406,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Red",
-      "LeaderBonusB": "x1.35deffor Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Genert",
@@ -3468,9 +3437,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attand1.70deffor Green",
-      "LeaderBonusB": "MagicParry for Dwarf",
-      "BaseAI": "Supporter(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Geraint",
@@ -3499,9 +3468,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.30attfor Red",
-      "LeaderBonusB": "x1.40deffor Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Gharn",
@@ -3530,9 +3499,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Green",
-      "LeaderBonusB": "x1.35deffor Orc",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Ghastly_Cragg",
@@ -3561,9 +3530,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.85attand1.60deffor DarkOrc",
-      "LeaderBonusB": "MeleeParry for Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Giana",
@@ -3592,9 +3561,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.30attfor Light",
-      "LeaderBonusB": "x1.40deffor Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Glimmer",
@@ -3623,9 +3592,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.70deffor Light",
-      "LeaderBonusB": "RangedParry for Beastfolk",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Gloom",
@@ -3654,9 +3623,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.70deffor Dark",
-      "LeaderBonusB": "MeleeParry for Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Gobar",
@@ -3685,9 +3654,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Blue",
-      "LeaderBonusB": "x1.35deffor Orc",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Golarg",
@@ -3716,9 +3685,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.40deffor Red",
-      "LeaderBonusB": "BrutalAttack for Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Goldclaw",
@@ -3747,9 +3716,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Light",
-      "LeaderBonusB": "x1.55deffor Dragonborn",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Golden_Lyra",
@@ -3778,9 +3747,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.85attand1.60deffor LightElf",
-      "LeaderBonusB": "MeleeParry for Elf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Gorenag",
@@ -3809,9 +3778,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.85attand1.60deffor RedOrc",
-      "LeaderBonusB": "RangedParry for Orc",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Gork",
@@ -3840,9 +3809,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Light",
-      "LeaderBonusB": "x1.35deffor Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Gragnag",
@@ -3871,9 +3840,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.40deffor Green",
-      "LeaderBonusB": "RangedParry for Orc",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Greymoon",
@@ -3902,9 +3871,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Blue",
-      "LeaderBonusB": "x1.55deffor Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Grim_Griselda",
@@ -3933,9 +3902,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.85deffor DarkDwarf",
-      "LeaderBonusB": "MeleeParry for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Grimfang",
@@ -3964,9 +3933,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Dark or AlphaGenesis",
-      "LeaderBonusB": "x1.45deffor Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Grimholt",
@@ -3995,9 +3964,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.40deffor Green",
-      "LeaderBonusB": "MagicParry for Orc",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Grimmor",
@@ -4026,9 +3995,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.30attfor Green",
-      "LeaderBonusB": "x1.40deffor Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Grincholt",
@@ -4057,9 +4026,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.85attand1.60deffor DarkOrc",
-      "LeaderBonusB": "MagicParry for Orc",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Griselda",
@@ -4088,9 +4057,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attand1.70deffor Light",
-      "LeaderBonusB": "MeleeParry for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Grognard",
@@ -4119,9 +4088,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.80deffor Blue",
-      "LeaderBonusB": "BrutalAttack for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Gronn",
@@ -4150,9 +4119,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Light",
-      "LeaderBonusB": "x1.35deffor Orc",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Grunhild",
@@ -4181,9 +4150,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attand1.70deffor Light",
-      "LeaderBonusB": "RangedParry for Dwarf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Hailcrest",
@@ -4212,9 +4181,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attand1.75deffor Blue",
-      "LeaderBonusB": "Protector for Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Halo",
@@ -4243,9 +4212,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.60deffor Light",
-      "LeaderBonusB": "MagicParry for Beastfolk",
-      "BaseAI": "Supporter(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Harvesting_Elmenora",
@@ -4274,9 +4243,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.85attand1.60deffor BlueElf",
-      "LeaderBonusB": "MeleeParry for Elf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Heartwig",
@@ -4305,9 +4274,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.85deffor RedDwarf",
-      "LeaderBonusB": "RangedParry for Dwarf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Hedwig",
@@ -4336,9 +4305,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attand1.70deffor Blue",
-      "LeaderBonusB": "RangedParry for Dwarf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Helio",
@@ -4367,9 +4336,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Dark",
-      "LeaderBonusB": "x1.45deffor Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Hemlock",
@@ -4398,9 +4367,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.60deffor Green",
-      "LeaderBonusB": "MeleeParry for Beastfolk",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Hogard",
@@ -4429,9 +4398,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.25attand1.35deffor Blue",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Charge(3)"
+      "BaseAI": ""
     },
     {
       "Id": "Idril",
@@ -4460,9 +4429,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Red",
-      "LeaderBonusB": "x1.35deffor Elf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Illyria",
@@ -4491,9 +4460,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Light",
-      "LeaderBonusB": "MagicParry for Elf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Iridian",
@@ -4522,9 +4491,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attfor Dark",
-      "LeaderBonusB": "x1.30deffor Elf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Iris",
@@ -4553,9 +4522,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Light",
-      "LeaderBonusB": "x1.35deffor Beastfolk",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Ixora",
@@ -4584,9 +4553,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Dark",
-      "LeaderBonusB": "x1.35deffor Orc",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Jade",
@@ -4615,9 +4584,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "ExtraTime for Green",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Charge(3)"
+      "BaseAI": ""
     },
     {
       "Id": "Jenya",
@@ -4646,9 +4615,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Dark",
-      "LeaderBonusB": "MagicParry for Elf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Jules",
@@ -4677,9 +4646,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "ExtraTime for Light",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Evade(2)"
+      "BaseAI": ""
     },
     {
       "Id": "Juniper",
@@ -4708,9 +4677,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Green",
-      "LeaderBonusB": "MeleeParry for Elf",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Kael",
@@ -4739,9 +4708,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.60deffor Dark or AlphaGenesis",
-      "LeaderBonusB": "MeleeParry for Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Kazz",
@@ -4770,9 +4739,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.80deffor Red",
-      "LeaderBonusB": "MagicParry for Dwarf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Kelp",
@@ -4801,9 +4770,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Blue",
-      "LeaderBonusB": "x1.35deffor Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Khadush",
@@ -4832,9 +4801,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Blue",
-      "LeaderBonusB": "x1.35deffor Orc",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Kharasta",
@@ -4863,9 +4832,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Green",
-      "LeaderBonusB": "x1.35deffor Orc",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Kharza",
@@ -4894,9 +4863,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Blue",
-      "LeaderBonusB": "x1.35deffor Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Korgan",
@@ -4925,9 +4894,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.80deffor Green",
-      "LeaderBonusB": "SongofCold for Bard",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Koshak",
@@ -4956,9 +4925,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attfor Green",
-      "LeaderBonusB": "x1.30deffor Orc",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Kral",
@@ -4987,9 +4956,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attfor Light",
-      "LeaderBonusB": "x1.30deffor Orc",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Kvash",
@@ -5018,9 +4987,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.80attand1.50deffor Blue",
-      "LeaderBonusB": "MeleeParry for Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Kyara",
@@ -5049,9 +5018,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Green",
-      "LeaderBonusB": "RangedParry for Human",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Kyron",
@@ -5080,9 +5049,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attfor Dark",
-      "LeaderBonusB": "x1.30deffor Elf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Lagoon",
@@ -5111,9 +5080,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.70deffor Blue",
-      "LeaderBonusB": "MeleeParry for Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Lia",
@@ -5142,9 +5111,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Light",
-      "LeaderBonusB": "x1.35deffor Elf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Lightheart",
@@ -5173,9 +5142,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.85deffor LightDragonborn",
-      "LeaderBonusB": "Protector for Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Lionel",
@@ -5204,9 +5173,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Light",
-      "LeaderBonusB": "x1.45deffor Human",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Liora",
@@ -5235,9 +5204,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Light",
-      "LeaderBonusB": "RangedParry for Elf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Lobelia",
@@ -5266,9 +5235,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.75attand1.55deffor Blue or AlphaGenesis",
-      "LeaderBonusB": "MagicParry for Elf",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Lotus",
@@ -5297,9 +5266,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Light",
-      "LeaderBonusB": "MeleeParry for Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Lucent_Daedra",
@@ -5328,9 +5297,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.75attand1.70deffor LightHuman",
-      "LeaderBonusB": "MagicParry for Human",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Lucia",
@@ -5359,9 +5328,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attfor Light",
-      "LeaderBonusB": "x1.30deffor Elf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Lumi",
@@ -5390,9 +5359,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Light or AlphaGenesis",
-      "LeaderBonusB": "x1.45deffor Human",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Luna",
@@ -5421,9 +5390,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Blue",
-      "LeaderBonusB": "RangedParry for Elf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Lyra",
@@ -5452,9 +5421,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Blue",
-      "LeaderBonusB": "MeleeParry for Elf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Lysander",
@@ -5483,9 +5452,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Dark",
-      "LeaderBonusB": "x1.45deffor Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Lythar",
@@ -5514,9 +5483,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Red",
-      "LeaderBonusB": "MeleeParry for Elf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Magda",
@@ -5545,9 +5514,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Green",
-      "LeaderBonusB": "x1.35deffor Human",
-      "BaseAI": "Supporter(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Malzareth",
@@ -5576,9 +5545,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Dark",
-      "LeaderBonusB": "MagicParry for Elf",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Maple",
@@ -5607,9 +5576,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.60deffor Red",
-      "LeaderBonusB": "MeleeParry for Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Marath",
@@ -5638,9 +5607,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attfor Green",
-      "LeaderBonusB": "x1.30deffor Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Maribel",
@@ -5669,9 +5638,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "ExtraTime for Light",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Supporter(2)"
+      "BaseAI": ""
     },
     {
       "Id": "Meraldon",
@@ -5700,9 +5669,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.30attand1.30deffor Red",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Supporter(3)"
+      "BaseAI": ""
     },
     {
       "Id": "Moonshade",
@@ -5731,9 +5700,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attand1.65deffor Dark",
-      "LeaderBonusB": "MagicParry for Dragonborn",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Moonshine",
@@ -5762,9 +5731,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.85deffor LightDragonborn",
-      "LeaderBonusB": "MagicParry for Dragonborn",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Moreia",
@@ -5793,9 +5762,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Red",
-      "LeaderBonusB": "MeleeParry for Elf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Morfyd",
@@ -5824,9 +5793,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.80deffor Dark",
-      "LeaderBonusB": "MeleeParry for Dwarf",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Mosstail",
@@ -5855,9 +5824,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attand1.65deffor Green",
-      "LeaderBonusB": "MagicParry for Dragonborn",
-      "BaseAI": "Supporter(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Murtag",
@@ -5886,9 +5855,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.40deffor Green",
-      "LeaderBonusB": "MeleeParry for Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Nargol",
@@ -5917,9 +5886,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attfor Red",
-      "LeaderBonusB": "x1.30deffor Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Needleroot",
@@ -5948,9 +5917,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attand1.65deffor Green",
-      "LeaderBonusB": "RangedParry for Dragonborn",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Nightmeria",
@@ -5979,9 +5948,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.85attand1.60deffor DarkElf",
-      "LeaderBonusB": "MeleeParry for Elf",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Nightsong",
@@ -6010,9 +5979,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.85deffor DarkDragonborn",
-      "LeaderBonusB": "MeleeParry for Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Nimbus",
@@ -6041,9 +6010,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.70deffor Light",
-      "LeaderBonusB": "Bloodlust for Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "November",
@@ -6072,9 +6041,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Blue or AlphaGenesis",
-      "LeaderBonusB": "x1.35deffor Elf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Nymeria",
@@ -6103,9 +6072,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Red",
-      "LeaderBonusB": "MeleeParry for Elf",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Oakscale",
@@ -6134,9 +6103,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attand1.75deffor Green",
-      "LeaderBonusB": "MeleeParry for Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Oasis",
@@ -6165,9 +6134,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Light",
-      "LeaderBonusB": "x1.45deffor Beastfolk",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Oberyn",
@@ -6196,9 +6165,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.60deffor Green",
-      "LeaderBonusB": "BrutalAttack for Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Oleander",
@@ -6227,9 +6196,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Green",
-      "LeaderBonusB": "x1.35deffor Beastfolk",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Orik",
@@ -6240,7 +6209,7 @@
         "Monk",
         "Dwarf",
         "Melee",
-        ""
+        "Star"
       ],
       "Upgrade": [
         0.283,
@@ -6258,9 +6227,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.80deffor Light",
-      "LeaderBonusB": "MeleeParry for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Ormughai",
@@ -6289,9 +6258,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.85attand1.55deffor GreenOrc",
-      "LeaderBonusB": "Bloodlust for Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Osric",
@@ -6320,9 +6289,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.25attand1.35deffor Blue",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Charge(3)"
+      "BaseAI": ""
     },
     {
       "Id": "Ozgar",
@@ -6351,9 +6320,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.40deffor Blue",
-      "LeaderBonusB": "MeleeParry for Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Penelope",
@@ -6382,9 +6351,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Light",
-      "LeaderBonusB": "x1.45deffor Human",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Percival",
@@ -6413,9 +6382,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Light",
-      "LeaderBonusB": "MeleeParry for Human",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Petalstep",
@@ -6444,9 +6413,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.85deffor GreenDragonborn",
-      "LeaderBonusB": "MeleeParry for Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Primrose",
@@ -6475,9 +6444,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Green",
-      "LeaderBonusB": "x1.45deffor Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Pyrrion",
@@ -6506,9 +6475,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attand1.70deffor Light",
-      "LeaderBonusB": "MagicParry for Dwarf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Radek",
@@ -6537,9 +6506,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Red",
-      "LeaderBonusB": "MeleeParry for Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Radomyr",
@@ -6568,9 +6537,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attand1.85deffor BlueDwarf",
-      "LeaderBonusB": "Bloodlust for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Radomyrrh",
@@ -6599,9 +6568,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.85deffor GreenDwarf",
-      "LeaderBonusB": "Bloodlust for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Ragnar",
@@ -6630,9 +6599,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.30attfor Red",
-      "LeaderBonusB": "x1.40deffor Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Rakuhake",
@@ -6661,9 +6630,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.85attand1.55deffor BlueOrc",
-      "LeaderBonusB": "MeleeParry for Orc",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Randolf",
@@ -6692,9 +6661,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Dark",
-      "LeaderBonusB": "x1.55deffor Dwarf",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Rathalok",
@@ -6723,9 +6692,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.40deffor Red",
-      "LeaderBonusB": "MeleeParry for Orc",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Ravenna",
@@ -6754,9 +6723,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.60deffor Dark",
-      "LeaderBonusB": "MagicParry for Human",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Raze",
@@ -6785,9 +6754,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.60deffor Red",
-      "LeaderBonusB": "RangedParry for Beastfolk",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Red-Eye",
@@ -6816,9 +6785,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.30attfor Red",
-      "LeaderBonusB": "x1.40deffor Dragonborn",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Reveling_Randolf",
@@ -6847,9 +6816,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Light",
-      "LeaderBonusB": "x1.55deffor Dwarf",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Richard",
@@ -6878,9 +6847,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Green",
-      "LeaderBonusB": "RangedParry for Human",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Ripple",
@@ -6909,9 +6878,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.70deffor Green",
-      "LeaderBonusB": "MeleeParry for Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "River",
@@ -6940,9 +6909,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Blue",
-      "LeaderBonusB": "x1.35deffor Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Robin",
@@ -6971,9 +6940,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attfor Blue",
-      "LeaderBonusB": "x1.30deffor Elf",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Roderick",
@@ -7002,9 +6971,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.30attand1.30deffor Red",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Evade(2)"
+      "BaseAI": ""
     },
     {
       "Id": "Ruby",
@@ -7033,9 +7002,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Red",
-      "LeaderBonusB": "x1.35deffor Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Runeglow",
@@ -7064,9 +7033,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Dark",
-      "LeaderBonusB": "x1.55deffor Dragonborn",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Rurik",
@@ -7095,9 +7064,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.25attand1.35deffor Dark",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Charge(4)"
+      "BaseAI": ""
     },
     {
       "Id": "Sandor",
@@ -7126,9 +7095,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Blue",
-      "LeaderBonusB": "MeleeParry for Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Sanguina",
@@ -7157,9 +7126,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attand1.25deffor Red",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Charge(4)"
+      "BaseAI": ""
     },
     {
       "Id": "Sapphirecrown",
@@ -7188,9 +7157,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Blue",
-      "LeaderBonusB": "x1.55deffor Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Sauriel",
@@ -7219,9 +7188,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.80attand1.60deffor RedElf",
-      "LeaderBonusB": "RangedParry for Elf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Scarlet",
@@ -7250,9 +7219,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.70deffor Red",
-      "LeaderBonusB": "ExploitWeakness for Beastfolk",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Scorch",
@@ -7281,9 +7250,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.60deffor Red",
-      "LeaderBonusB": "MagicParry for Beastfolk",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Scylla",
@@ -7312,9 +7281,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Green",
-      "LeaderBonusB": "MeleeParry for Elf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Seraphina",
@@ -7343,9 +7312,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Blue",
-      "LeaderBonusB": "x1.35deffor Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Serelune",
@@ -7374,9 +7343,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.75attand1.55deffor Blue",
-      "LeaderBonusB": "RangedParry for Elf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Serene",
@@ -7405,9 +7374,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Green",
-      "LeaderBonusB": "MeleeParry for Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Shadowstep",
@@ -7436,9 +7405,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attand1.65deffor Dark",
-      "LeaderBonusB": "MeleeParry for Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Shadra",
@@ -7467,9 +7436,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.40deffor Dark",
-      "LeaderBonusB": "MeleeParry for Orc",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Shadragon",
@@ -7498,9 +7467,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.85attand1.60deffor LightOrc",
-      "LeaderBonusB": "MeleeParry for Orc",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Shani",
@@ -7529,9 +7498,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Blue",
-      "LeaderBonusB": "x1.45deffor Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Sharpscale",
@@ -7560,9 +7529,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.30attfor Blue",
-      "LeaderBonusB": "x1.40deffor Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Shatterstorm",
@@ -7591,9 +7560,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.30attfor Red",
-      "LeaderBonusB": "x1.40deffor Dragonborn",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Shoal",
@@ -7622,9 +7591,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.60deffor Blue",
-      "LeaderBonusB": "BrutalAttack for Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Sigyn",
@@ -7653,9 +7622,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Red",
-      "LeaderBonusB": "x1.55deffor Dwarf",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Silverstring",
@@ -7684,9 +7653,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attand1.75deffor Blue",
-      "LeaderBonusB": "SongOfFire for Bard",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Skylar",
@@ -7715,9 +7684,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.60deffor Green",
-      "LeaderBonusB": "RangedParry for Human",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Skytail",
@@ -7746,9 +7715,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.30attfor Blue",
-      "LeaderBonusB": "x1.40deffor Dragonborn",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Sleetsong",
@@ -7777,9 +7746,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attand1.65deffor Blue",
-      "LeaderBonusB": "MeleeParry for Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Sol",
@@ -7808,9 +7777,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Light",
-      "LeaderBonusB": "x1.35deffor Elf",
-      "BaseAI": "Supporter(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Sonya",
@@ -7839,9 +7808,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Red",
-      "LeaderBonusB": "x1.45deffor Human",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Sparklight",
@@ -7870,9 +7839,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attand1.75deffor Light",
-      "LeaderBonusB": "MeleeParry for Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Sparrow",
@@ -7901,9 +7870,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Dark",
-      "LeaderBonusB": "x1.35deffor Human",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Sprig",
@@ -7932,9 +7901,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Dark",
-      "LeaderBonusB": "x1.35deffor Beastfolk",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "SpringRadek",
@@ -7963,9 +7932,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.75attand1.70deffor GreenHuman",
-      "LeaderBonusB": "MeleeParry for Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Squall",
@@ -7994,9 +7963,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Blue",
-      "LeaderBonusB": "x1.45deffor Beastfolk",
-      "BaseAI": "Supporter(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Stalker",
@@ -8025,9 +7994,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Dark",
-      "LeaderBonusB": "x1.45deffor Beastfolk",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Steelgrip",
@@ -8056,9 +8025,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.80deffor GreenDragonborn",
-      "LeaderBonusB": "Bloodlust for Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Stormbreeze",
@@ -8087,9 +8056,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attand1.65deffor Light",
-      "LeaderBonusB": "RangedParry for Dragonborn",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Strixx",
@@ -8118,9 +8087,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attfor Dark",
-      "LeaderBonusB": "x1.30deffor Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Summershine",
@@ -8149,9 +8118,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attand1.65deffor Light",
-      "LeaderBonusB": "MeleeParry for Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Sunstrike",
@@ -8180,9 +8149,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Red",
-      "LeaderBonusB": "x1.55deffor Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Swiftcloud",
@@ -8211,9 +8180,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attand1.65deffor Dark",
-      "LeaderBonusB": "MeleeParry for Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Sylvain",
@@ -8242,9 +8211,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Green",
-      "LeaderBonusB": "x1.35deffor Elf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Tess",
@@ -8273,9 +8242,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.80attand1.50deffor Light",
-      "LeaderBonusB": "MeleeParry for Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Thargor",
@@ -8304,9 +8273,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.30attfor Dark",
-      "LeaderBonusB": "x1.40deffor Dwarf",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Thistle",
@@ -8335,9 +8304,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.60deffor Green",
-      "LeaderBonusB": "MeleeParry for Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Thronak",
@@ -8366,9 +8335,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attand1.85deffor RedDwarf",
-      "LeaderBonusB": "Bloodlust for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Thunderclaw",
@@ -8397,9 +8366,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.25attand1.35deffor Light",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Evade(2)"
+      "BaseAI": ""
     },
     {
       "Id": "Tiordan",
@@ -8428,9 +8397,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Dark",
-      "LeaderBonusB": "MagicParry for Human",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Torkan",
@@ -8459,9 +8428,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Green",
-      "LeaderBonusB": "x1.55deffor Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Torrent",
@@ -8490,9 +8459,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.60deffor Blue",
-      "LeaderBonusB": "ImmuneToTaunt for Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Trillian",
@@ -8521,9 +8490,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Blue",
-      "LeaderBonusB": "RangedParry for Elf",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Trisha",
@@ -8552,9 +8521,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attand1.70deffor Blue",
-      "LeaderBonusB": "Protector for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Tristan",
@@ -8583,9 +8552,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attand1.70deffor Dark",
-      "LeaderBonusB": "MeleeParry for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Tropical_Ariane",
@@ -8614,9 +8583,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.85attand1.60deffor BlueElf",
-      "LeaderBonusB": "RangedParry for Elf",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Tsunami",
@@ -8645,9 +8614,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.70deffor Blue",
-      "LeaderBonusB": "MeleeParry for Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Two-Talon",
@@ -8676,9 +8645,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Green",
-      "LeaderBonusB": "x1.55deffor Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Ugaz",
@@ -8707,9 +8676,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Red",
-      "LeaderBonusB": "x1.35deffor Orc",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Urgax",
@@ -8738,9 +8707,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.80attand1.50deffor Dark",
-      "LeaderBonusB": "SongofBlood for Bard",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Vaelith",
@@ -8769,9 +8738,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Green",
-      "LeaderBonusB": "MeleeParry for Elf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Valenor",
@@ -8800,9 +8769,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.75attand1.55deffor Red",
-      "LeaderBonusB": "MagicParry for Elf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Valeria",
@@ -8831,9 +8800,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.40deffor Dark",
-      "LeaderBonusB": "MeleeParry for Orc",
-      "BaseAI": "Supporter(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Vengeful_Shani",
@@ -8862,9 +8831,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Dark",
-      "LeaderBonusB": "x1.45deffor Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Vera",
@@ -8893,9 +8862,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attfor Red",
-      "LeaderBonusB": "x1.55deffor Dwarf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Veridian",
@@ -8924,9 +8893,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.65attand1.45deffor Light",
-      "LeaderBonusB": "MagicParry for Elf",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Violet",
@@ -8955,9 +8924,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.50deffor Blue",
-      "LeaderBonusB": "MagicParry for Human",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Voidtail",
@@ -8986,9 +8955,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attand1.75deffor Dark",
-      "LeaderBonusB": "RangedParry for Dragonborn",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Vorlos",
@@ -9017,9 +8986,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.80attand1.50deffor Green",
-      "LeaderBonusB": "MagicParry for Orc",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Wavescale",
@@ -9048,9 +9017,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.85deffor BlueDragonborn",
-      "LeaderBonusB": "MeleeParry for Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Wild_Caledor",
@@ -9079,9 +9048,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.85attand1.60deffor GreenElf",
-      "LeaderBonusB": "RangedParry for Elf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Wildfire",
@@ -9110,9 +9079,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.60attand1.85deffor GreenDragonborn",
-      "LeaderBonusB": "MeleeParry for Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Wildheart",
@@ -9141,9 +9110,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attand1.65deffor Green",
-      "LeaderBonusB": "Protector for Dragonborn",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Willow",
@@ -9172,9 +9141,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.55attfor Green",
-      "LeaderBonusB": "x1.35deffor Elf",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Windleaf",
@@ -9203,9 +9172,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.25attand1.35deffor Green",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Supporter(3)"
+      "BaseAI": ""
     },
     {
       "Id": "Wrathborne",
@@ -9234,9 +9203,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attand1.70deffor Dark",
-      "LeaderBonusB": "BrutalAttack for Dwarf",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Wulfgar",
@@ -9265,9 +9234,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Red",
-      "LeaderBonusB": "x1.45deffor Human",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Xaakt",
@@ -9296,9 +9265,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.70attand1.40deffor Blue",
-      "LeaderBonusB": "BrutalAttack for Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Xiv",
@@ -9327,9 +9296,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attfor Blue",
-      "LeaderBonusB": "x1.30deffor Orc",
-      "BaseAI": "Supporter(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Yazgak",
@@ -9358,9 +9327,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.80attand1.50deffor Dark",
-      "LeaderBonusB": "MeleeParry for Orc",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Yun",
@@ -9389,9 +9358,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.45attfor Green",
-      "LeaderBonusB": "x1.45deffor Human",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Zana",
@@ -9420,9 +9389,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.35attand1.25deffor Green",
+      "LeaderBonusA": "",
       "LeaderBonusB": "",
-      "BaseAI": "Charge(4)"
+      "BaseAI": ""
     },
     {
       "Id": "Zenith",
@@ -9451,9 +9420,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.50attand1.60deffor Light",
-      "LeaderBonusB": "Protector for Beastfolk",
-      "BaseAI": "Charge(4)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Zeyra",
@@ -9482,9 +9451,9 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.75attand1.55deffor Dark",
-      "LeaderBonusB": "RangedParry for Elf",
-      "BaseAI": "Charge(3)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     },
     {
       "Id": "Zouen",
@@ -9513,9 +9482,908 @@
         0,
         0
       ],
-      "LeaderBonusA": "x1.40attfor Light",
-      "LeaderBonusB": "x1.30deffor Orc",
-      "BaseAI": "Evade(2)"
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Default",
+      "HeroName": "Default",
+      "BaseData": [
+        "Light",
+        "3Stars",
+        "Mage",
+        "Orc",
+        "Magic",
+        "Cross"
+      ],
+      "Upgrade": [
+        9.16,
+        9.16
+      ],
+      "BaseStat": [
+        360,
+        540,
+        470,
+        700,
+        620,
+        930,
+        720,
+        1080,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Starmist",
+      "HeroName": "Starmist",
+      "BaseData": [
+        "Blue",
+        "5",
+        "Druid",
+        "Dragonborn",
+        "Melee",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.357,
+        0.309
+      ],
+      "BaseStat": [
+        460,
+        1290,
+        550,
+        1570,
+        810,
+        2300,
+        1100,
+        3010,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Carmine",
+      "HeroName": "Carmine",
+      "BaseData": [
+        "Red",
+        "5",
+        "Pirate",
+        "Beastfolk",
+        "Melee",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.357,
+        0.309
+      ],
+      "BaseStat": [
+        670,
+        950,
+        820,
+        1170,
+        1190,
+        2140,
+        1410,
+        2540,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Aurin",
+      "HeroName": "Aurin",
+      "BaseData": [
+        "Light",
+        "5",
+        "Druid",
+        "Dwarf",
+        "Melee",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.412,
+        0.411
+      ],
+      "BaseStat": [
+        350,
+        1210,
+        450,
+        1560,
+        630,
+        2190,
+        890,
+        3090,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Brom",
+      "HeroName": "Brom",
+      "BaseData": [
+        "Light",
+        "5",
+        "Knight",
+        "Dwarf",
+        "Melee",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.413,
+        0.419
+      ],
+      "BaseStat": [
+        420,
+        1800,
+        530,
+        2270,
+        800,
+        3390,
+        1130,
+        4810,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Cassius",
+      "HeroName": "Cassius",
+      "BaseData": [
+        "Red",
+        "5",
+        "Rogue",
+        "Human",
+        "Melee",
+        "Star"
+      ],
+      "Upgrade": [
+        0.44,
+        0.442
+      ],
+      "BaseStat": [
+        500,
+        750,
+        680,
+        1020,
+        1090,
+        1630,
+        1570,
+        2350,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Crimson",
+      "HeroName": "Crimson",
+      "BaseData": [
+        "Red",
+        "5",
+        "Javelineer",
+        "Beastfolk",
+        "Ranged",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.268,
+        0.27
+      ],
+      "BaseStat": [
+        560,
+        720,
+        760,
+        980,
+        1230,
+        1590,
+        1560,
+        2020,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Dolin",
+      "HeroName": "Dolin",
+      "BaseData": [
+        "Green",
+        "5",
+        "Ranger",
+        "Dwarf",
+        "Ranged",
+        "Star"
+      ],
+      "Upgrade": [
+        0.286,
+        0.285
+      ],
+      "BaseStat": [
+        390,
+        740,
+        570,
+        1070,
+        840,
+        1580,
+        1080,
+        2030,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Elgroth",
+      "HeroName": "Elgroth",
+      "BaseData": [
+        "Green",
+        "5",
+        "Barbarian",
+        "Elf",
+        "Melee",
+        "Star"
+      ],
+      "Upgrade": [
+        0.378,
+        0.382
+      ],
+      "BaseStat": [
+        400,
+        1180,
+        580,
+        1720,
+        900,
+        2670,
+        1240,
+        3690,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Fargok",
+      "HeroName": "Fargok",
+      "BaseData": [
+        "Green",
+        "5",
+        "Pirate",
+        "Orc",
+        "Melee",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.155,
+        0.154
+      ],
+      "BaseStat": [
+        670,
+        1010,
+        950,
+        1420,
+        1350,
+        2020,
+        1560,
+        2330,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Flicker",
+      "HeroName": "Flicker",
+      "BaseData": [
+        "Light",
+        "5",
+        "Gladiator",
+        "Beastfolk",
+        "Melee",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.46,
+        0.459
+      ],
+      "BaseStat": [
+        590,
+        1370,
+        800,
+        1860,
+        1150,
+        2680,
+        1680,
+        3910,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Garnabur",
+      "HeroName": "Garnabur",
+      "BaseData": [
+        "Green",
+        "5",
+        "Druid",
+        "Dwarf",
+        "Melee",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.402,
+        0.43
+      ],
+      "BaseStat": [
+        220,
+        1800,
+        310,
+        2530,
+        470,
+        3770,
+        660,
+        5390,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Glare",
+      "HeroName": "Glare",
+      "BaseData": [
+        "Light",
+        "5",
+        "Archer",
+        "Beastfolk",
+        "Ranged",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.236,
+        0.234
+      ],
+      "BaseStat": [
+        750,
+        660,
+        1070,
+        940,
+        1650,
+        1450,
+        2040,
+        1790,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Gleam",
+      "HeroName": "Gleam",
+      "BaseData": [
+        "Light",
+        "5",
+        "Assassin",
+        "Beastfolk",
+        "Melee",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.365,
+        0.366
+      ],
+      "BaseStat": [
+        960,
+        840,
+        1230,
+        1080,
+        1840,
+        1610,
+        2510,
+        2200,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Harrig",
+      "HeroName": "Harrig",
+      "BaseData": [
+        "Green",
+        "5",
+        "Hunter",
+        "Dwarf",
+        "Ranged",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.213,
+        0.216
+      ],
+      "BaseStat": [
+        540,
+        1210,
+        770,
+        1720,
+        1180,
+        2630,
+        1430,
+        3200,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Isil",
+      "HeroName": "Isil",
+      "BaseData": [
+        "Green",
+        "3",
+        "Ranger",
+        "Elf",
+        "Ranged",
+        "Star"
+      ],
+      "Upgrade": [
+        0.207,
+        0.194
+      ],
+      "BaseStat": [
+        340,
+        510,
+        420,
+        630,
+        580,
+        870,
+        700,
+        1040,
+        790,
+        1180
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Lunethar",
+      "HeroName": "Lunethar",
+      "BaseData": [
+        "Dark",
+        "5",
+        "Knight",
+        "Elf",
+        "Melee",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.294,
+        0.296
+      ],
+      "BaseStat": [
+        280,
+        1820,
+        380,
+        2450,
+        580,
+        3720,
+        750,
+        4820,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Maegra",
+      "HeroName": "Maegra",
+      "BaseData": [
+        "Red",
+        "4",
+        "Barbarian",
+        "Orc",
+        "Melee",
+        "Star"
+      ],
+      "Upgrade": [
+        0.305,
+        0.301
+      ],
+      "BaseStat": [
+        330,
+        940,
+        440,
+        1070,
+        590,
+        1500,
+        770,
+        1950,
+        870,
+        2190
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Malveria",
+      "HeroName": "Malveria",
+      "BaseData": [
+        "Red",
+        "5",
+        "Warlock",
+        "Elf",
+        "Magic",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.475,
+        0.473
+      ],
+      "BaseStat": [
+        320,
+        800,
+        460,
+        1150,
+        650,
+        1650,
+        960,
+        2430,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Nok",
+      "HeroName": "Nok",
+      "BaseData": [
+        "Light",
+        "5",
+        "Ranger",
+        "Orc",
+        "Ranged",
+        "Star"
+      ],
+      "Upgrade": [
+        0.341,
+        0.341
+      ],
+      "BaseStat": [
+        370,
+        680,
+        530,
+        990,
+        820,
+        1290,
+        1100,
+        1730,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Prism",
+      "HeroName": "Prism",
+      "BaseData": [
+        "Light",
+        "4",
+        "Monk",
+        "Beastfolk",
+        "Melee",
+        "Star"
+      ],
+      "Upgrade": [
+        0.194,
+        0.19
+      ],
+      "BaseStat": [
+        420,
+        980,
+        560,
+        1310,
+        720,
+        1680,
+        860,
+        2000,
+        980,
+        2280
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Seplin",
+      "HeroName": "Seplin",
+      "BaseData": [
+        "Green",
+        "5",
+        "Javelineer",
+        "Dwarf",
+        "Ranged",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.325,
+        0.327
+      ],
+      "BaseStat": [
+        590,
+        800,
+        720,
+        980,
+        1170,
+        1590,
+        1550,
+        2110,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Skylash",
+      "HeroName": "Skylash",
+      "BaseData": [
+        "Blue",
+        "5",
+        "Rogue",
+        "Dragonborn",
+        "Melee",
+        "Star"
+      ],
+      "Upgrade": [
+        0.399,
+        0.39
+      ],
+      "BaseStat": [
+        460,
+        900,
+        640,
+        1260,
+        1080,
+        1870,
+        1510,
+        2600,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Sunmend",
+      "HeroName": "Sunmend",
+      "BaseData": [
+        "Light",
+        "5",
+        "Paladin",
+        "Dragonborn",
+        "Melee",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.388,
+        0.394
+      ],
+      "BaseStat": [
+        320,
+        1120,
+        430,
+        1490,
+        590,
+        2060,
+        820,
+        2870,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Urzmorga",
+      "HeroName": "Urzmorga",
+      "BaseData": [
+        "Red",
+        "5",
+        "Witch",
+        "Orc",
+        "Magic",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.339,
+        0.345
+      ],
+      "BaseStat": [
+        300,
+        1130,
+        420,
+        1580,
+        590,
+        2230,
+        790,
+        3000,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Yeora",
+      "HeroName": "Yeora",
+      "BaseData": [
+        "Blue",
+        "5",
+        "Rogue",
+        "Elf",
+        "Melee",
+        "Star"
+      ],
+      "Upgrade": [
+        0.329,
+        0.319
+      ],
+      "BaseStat": [
+        460,
+        900,
+        620,
+        1220,
+        850,
+        1470,
+        1130,
+        1940,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Frostfang",
+      "HeroName": "Frostfang",
+      "BaseData": [
+        "Blue",
+        "5",
+        "Mage",
+        "Dragonborn",
+        "Melee",
+        "Star"
+      ],
+      "Upgrade": [
+        0.359,
+        0.356
+      ],
+      "BaseStat": [
+        410,
+        1160,
+        520,
+        1470,
+        700,
+        2000,
+        890,
+        2530,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Abe",
+      "HeroName": "Abe",
+      "BaseData": [
+        "Dark",
+        "5",
+        "Assassin",
+        "Dragonborn",
+        "Melee",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.0,
+        0.0
+      ],
+      "BaseStat": [
+        1234,
+        100,
+        43,
+        150,
+        233,
+        200,
+        250,
+        250,
+        300,
+        300
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Adana",
+      "HeroName": "Adana",
+      "BaseData": [
+        "Green",
+        "3",
+        "Assassin",
+        "Human",
+        "Melee",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.113,
+        0.12
+      ],
+      "BaseStat": [
+        580,
+        750,
+        730,
+        940,
+        980,
+        1260,
+        1090,
+        1410,
+        1280,
+        1650
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
     }
   ]
 }
