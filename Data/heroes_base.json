@@ -1,37 +1,6 @@
 {
   "heroes": [
     {
-      "Id": "Aigror",
-      "HeroName": "Aigror",
-      "BaseData": [
-        "Red",
-        "5",
-        "Guardian",
-        "Dwarf",
-        "Melee",
-        "Cross"
-      ],
-      "Upgrade": [
-        0.247,
-        0.356
-      ],
-      "BaseStat": [
-        490,
-        1710,
-        590,
-        2070,
-        810,
-        2810,
-        1010,
-        3810,
-        0,
-        0
-      ],
-      "LeaderBonusA": "",
-      "LeaderBonusB": "",
-      "BaseAI": ""
-    },
-    {
       "Id": "Akasha",
       "HeroName": "Akasha",
       "BaseData": [
@@ -10378,6 +10347,37 @@
         1760,
         1310,
         2370,
+        0,
+        0
+      ],
+      "LeaderBonusA": "",
+      "LeaderBonusB": "",
+      "BaseAI": ""
+    },
+    {
+      "Id": "Aigror",
+      "HeroName": "Aigror",
+      "BaseData": [
+        "Red",
+        "5",
+        "Guardian",
+        "Dwarf",
+        "Melee",
+        "Cross"
+      ],
+      "Upgrade": [
+        0.247,
+        0.356
+      ],
+      "BaseStat": [
+        490,
+        1710,
+        590,
+        2070,
+        810,
+        2810,
+        1010,
+        3810,
         0,
         0
       ],
